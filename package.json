@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-url-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "url loader for parcel",
   "main": "index.js",
   "author": "senze.fan",
