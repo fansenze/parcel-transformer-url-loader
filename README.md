@@ -1,6 +1,6 @@
 # parcel-pugin-url-loader  
 
-### use *base64* encode file
+### use `base64` encode file when you `import` file in `js`    
 
 ## Installation
 ```
