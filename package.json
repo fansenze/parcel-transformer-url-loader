@@ -1,8 +1,8 @@
 {
   "name": "parcel-plugin-url-loader",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "url loader for parcel",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "author": "senze.fan",
   "license": "MIT",
   "repository": {
