@@ -1,5 +1,4 @@
-# parcel-pugin-url-loader  
-[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)  
+# parcel-pugin-url-loader [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)  
 
 #### use `base64` encode file when you `import` file in `js`    
 
