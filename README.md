@@ -1,6 +1,6 @@
-# parcel-pugin-url-loader  
+# parcel-pugin-url-loader [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)  
 
-### use `base64` encode file when you `import` file in `js`    
+#### use `base64` encode file when you `import` file in `js`    
 
 ## Installation
 ```
@@ -12,7 +12,7 @@ npm i parcel-plugin-url-loader --save-dev
 
 ## Usage
 
-#### ✨✨✨ If you have used `url-loader` in `webpack`, you'll feel familiar with it  
+✨✨✨ If you have used `url-loader` in `webpack`, you'll feel familiar with it  
 
 ### there is default options  
 ```
@@ -26,7 +26,7 @@ npm i parcel-plugin-url-loader --save-dev
 
 ### if you want to have your configuration  
 
-#### first of all, you should touch `.parcelrc` in root path of your project  
+first of all, you should touch `.parcelrc` in root path of your project  
 
 #### .parcelrc
 ```
