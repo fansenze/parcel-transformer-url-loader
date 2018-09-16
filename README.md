@@ -1,4 +1,4 @@
-# parcel-pugin-url-loader  
+# parcel-plugin-url-loader  
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com) 
 ![DUB](https://img.shields.io/dub/l/vibe-d.svg)
   
