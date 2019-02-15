@@ -3,7 +3,7 @@
 ![DUB](https://img.shields.io/dub/l/vibe-d.svg)
   
 
-#### use `base64` encode file when you `import` file in `js`    
+#### use `base64` encode file in `js` and `css`(includes `sass`/`less` etc.)    
 
 ## Installation
 ```
@@ -21,7 +21,7 @@ npm i parcel-plugin-url-loader --save-dev
 ```
 {
   "url-loader": {
-    "exts": ["jpg", "jpeg", "png", "gif"],
+    "exts": ["jpg", "jpeg", "png", "gif", "svg"],
     "limit": 10240
   }
 }
