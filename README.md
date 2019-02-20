@@ -5,6 +5,8 @@
 
 #### use `base64` encode file in `js` and `css`(includes `sass`/`less` etc.)    
 
+the plugin will unlink file in `production`(parcel env)
+
 ## Installation
 ```
 yarn add parcel-plugin-url-loader --dev
