@@ -1,0 +1,35 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "removeComments": true,
+    "allowJs": false,
+    "strict": true,
+    "importHelpers": true,
+    "jsx": "react",
+    "lib": ["es5", "es6", "es7", "DOM"],
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "noEmitOnError": true,
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+    "skipLibCheck": true,
+    "downlevelIteration": true,
+    "target": "ES2015",
+    "types": [
+      "node"
+    ],
+    "typeRoots": [
+      "node_modules/@types"
+    ],
+    "baseUrl": "."
+  },
+  "exclude": [
+    "**/__tests__/**/*.spec.ts",
+    "**/node_modules/**",
+    "**/lib/**",
+  ]
+}

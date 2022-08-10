@@ -1,0 +1,14 @@
+.node
+.happypack
+.cache
+.eslintcache
+.DS_Store
+.vscode
+.idea
+.prettierrc.js
+.eslintrc.js
+jest.config.js
+lib
+coverage
+typings
+node_modules
