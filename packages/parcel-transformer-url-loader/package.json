@@ -1,0 +1,33 @@
+{
+  "name": "parcel-transformer-url-loader",
+  "version": "2.0.0",
+  "description": "url loader for parcel",
+  "author": "senze.fan <151665030@qq.com>",
+  "license": "MIT",
+  "keywords": [
+    "parcel",
+    "parcel-plugin",
+    "url-loader",
+    "base64"
+  ],
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "dev": "npm run build -- -w",
+    "build": "tsc -p tsconfig.json",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:fansenze/parcel-plugin-url-loader.git"
+  },
+  "dependencies": {
+    "@parcel/plugin": "^2.7.0",
+    "mime": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/mime": "^3.0.1"
+  }
+}

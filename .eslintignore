@@ -20,3 +20,5 @@ coverage
 jest.config.js
 
 /scripts
+
+/packages/parcel-plugin-url-loader/lib

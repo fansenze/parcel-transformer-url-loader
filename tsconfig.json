@@ -3,6 +3,7 @@
     "esModuleInterop": true,
     "experimentalDecorators": true,
     "removeComments": true,
+    "resolveJsonModule": false,
     "allowJs": false,
     "strict": true,
     "importHelpers": true,

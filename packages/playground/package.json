@@ -1,0 +1,23 @@
+{
+  "name": "playground",
+  "version": "0.0.0",
+  "license": "MIT",
+  "private": true,
+  "main": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "npm run clean && parcel --no-cache",
+    "build": "npm run clean && parcel build --no-cache",
+    "clean": "rm -rf dist && rm -rf .parcel-cache"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0",
+    "parcel-transformer-url-loader": "^2.0.0"
+  },
+  "parcel-transformer-url-loader": {
+    "limit": 18888
+  }
+}

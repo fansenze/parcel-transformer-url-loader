@@ -8,7 +8,7 @@
     "test": "jest",
     "test:watch": "jest --watch",
     "test:cov": "jest --coverage",
-    "create": "node scripts/create/bin",
+    "new": "node scripts/create/bin",
     "lint": "eslint 'packages/*/src/**.{js,ts,tsx}'",
     "format": "npm run lint -- --fix && prettier --write 'packages/*/src/**.{js,ts,tsx}'"
   },

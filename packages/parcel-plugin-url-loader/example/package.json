@@ -1,0 +1,17 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "senze.fan",
+  "license": "MIT",
+  "scripts": {
+    "dev": "rm -rf .cache && rm -rf build && parcel ./index.html -d build",
+    "build": "rm -rf .cache && rm -rf build && parcel build ./index.html --no-cache -d build/ --public-url /"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-preset-env": "^1.7.0",
+    "parcel-bundler": "^1.11.0",
+    "parcel-plugin-url-loader": "^1.3.0"
+  }
+}

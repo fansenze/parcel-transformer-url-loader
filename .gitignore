@@ -90,3 +90,7 @@ packages/*/lib
 # test files
 __test__*
 .history
+
+.parcel-cache
+
+!packages/parcel-plugin-url-loader/lib

@@ -12,3 +12,4 @@ lib
 coverage
 typings
 node_modules
+/packages/parcel-plugin-url-loader/lib
