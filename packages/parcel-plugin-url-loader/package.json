@@ -8,7 +8,8 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:fansenze/parcel-plugin-url-loader.git"
+    "url": "git+https://github.com/fansenze/parcel-transformer-url-loader.git",
+    "directory": "packages/parcel-plugin-url-loader"
   },
   "keywords": [
     "parcel",
